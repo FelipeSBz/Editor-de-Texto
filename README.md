@@ -1,5 +1,5 @@
 # Editor de Texto
-Editor de texto simples com interface grafica (GTK3
+Editor de texto simples com interface grafica (GTK3)
 
 Funcionalidades:
    - Abrir arquivo de texto (dialogo de selecao de arquivo)
